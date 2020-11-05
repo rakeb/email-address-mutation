@@ -1,0 +1,69 @@
+To: bob.email.mutation@gmail.com
+From: Alice <alice.email.mutation@gmail.com>
+Subject: test body
+Message-ID: <2f88148d-c38f-65d1-1103-1d1ba611d482@gmail.com>
+Date: Mon, 10 Jun 2019 22:15:26 -0400
+User-Agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10.14; rv:60.0)
+ Gecko/20100101 Thunderbird/60.7.0
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="------------480E575C4BD5DD8D1A9D09EA"
+Content-Language: en-US
+
+This is a multi-part message in MIME format.
+--------------480E575C4BD5DD8D1A9D09EA
+Content-Type: text/plain; charset=utf-8; format=flowed
+Content-Transfer-Encoding: 7bit
+
+*Lorem Ipsum*is simply dummy text of the printing and typesetting 
+industry. Lorem Ipsum has been the industry's standard dummy text ever 
+since the 1500s, when an unknown printer took a galley of type and 
+scrambled it to make a type specimen book. It has survived not only five 
+centuries, but also the leap into electronic typesetting, remaining 
+essentially unchanged. It was popularised in the 1960s with the release 
+of Letraset sheets containing Lorem Ipsum passages, and more recently 
+with desktop publishing software like Aldus PageMaker including versions 
+of Lorem Ipsum
+
+
+--------------480E575C4BD5DD8D1A9D09EA
+Content-Type: text/html; charset=utf-8
+Content-Transfer-Encoding: 8bit
+
+<html>
+  <head>
+
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  </head>
+  <body text="#000000" bgcolor="#FFFFFF">
+    <p><strong style="margin: 0px; padding: 0px; color: rgb(0, 0, 0);
+        font-family: &quot;Open Sans&quot;, Arial, sans-serif;
+        font-size: 14px; font-style: normal; font-variant-ligatures:
+        normal; font-variant-caps: normal; letter-spacing: normal;
+        orphans: 2; text-align: justify; text-indent: 0px;
+        text-transform: none; white-space: normal; widows: 2;
+        word-spacing: 0px; -webkit-text-stroke-width: 0px;
+        background-color: rgb(255, 255, 255); text-decoration-style:
+        initial; text-decoration-color: initial;">Lorem Ipsum</strong><span
+        style="color: rgb(0, 0, 0); font-family: &quot;Open Sans&quot;,
+        Arial, sans-serif; font-size: 14px; font-style: normal;
+        font-variant-ligatures: normal; font-variant-caps: normal;
+        font-weight: 400; letter-spacing: normal; orphans: 2;
+        text-align: justify; text-indent: 0px; text-transform: none;
+        white-space: normal; widows: 2; word-spacing: 0px;
+        -webkit-text-stroke-width: 0px; background-color: rgb(255, 255,
+        255); text-decoration-style: initial; text-decoration-color:
+        initial; display: inline !important; float: none;"><span> </span>is
+        simply dummy text of the printing and typesetting industry.
+        Lorem Ipsum has been the industry's standard dummy text ever
+        since the 1500s, when an unknown printer took a galley of type
+        and scrambled it to make a type specimen book. It has survived
+        not only five centuries, but also the leap into electronic
+        typesetting, remaining essentially unchanged. It was popularised
+        in the 1960s with the release of Letraset sheets containing
+        Lorem Ipsum passages, and more recently with desktop publishing
+        software like Aldus PageMaker including versions of Lorem Ipsum</span></p>
+  </body>
+</html>
+
+--------------480E575C4BD5DD8D1A9D09EA--
